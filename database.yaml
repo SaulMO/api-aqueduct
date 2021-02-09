@@ -1,0 +1,5 @@
+username: "saul"
+password: "muser1997"
+host: "localhost"
+port: 5432
+databaseName: "ventas_db"
